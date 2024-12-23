@@ -9,8 +9,6 @@
         "jsmith@example.com"
       ],
       "currentCidrs": [
-        "131.103.136.0/24",
-        "131.103.137.0/24",
         "165.254.127.0/24",
         "165.254.137.0/24",
         "184.25.254.0/24"
@@ -19,7 +17,10 @@
       "latestTicketId": 2456,
       "mapAlias": "ABC Company",
       "mcmMapRuleId": 12345,
-      "proposedCidrs": [],
+      "proposedCidrs": [
+        "131.103.136.0/24",
+        "131.103.137.0/24"
+      ],
       "ruleName": "ss.​akamai.​net",
       "service": "S",
       "shared": false,
