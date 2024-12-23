@@ -10,14 +10,15 @@
       ],
       "currentCidrs": [
         "165.254.127.0/24",
-        "165.254.137.0/24",
-        "184.25.254.0/24"
       ],
       "id": 123456789,
       "latestTicketId": 2456,
       "mapAlias": "ABC Company",
       "mcmMapRuleId": 12345,
-      "proposedCidrs": [],
+      "proposedCidrs": [
+        "165.254.137.0/24",
+        "184.25.254.0/24"
+      ],
       "ruleName": "ss.​akamai.​net",
       "service": "S",
       "shared": false,
