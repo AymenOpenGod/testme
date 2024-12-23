@@ -17,10 +17,7 @@
       "latestTicketId": 2456,
       "mapAlias": "ABC Company",
       "mcmMapRuleId": 12345,
-      "proposedCidrs": [
-        "131.103.136.0/24",
-        "131.103.137.0/24"
-      ],
+      "proposedCidrs": [],
       "ruleName": "ss.​akamai.​net",
       "service": "S",
       "shared": false,
