@@ -17,8 +17,7 @@
       "mcmMapRuleId": 12345,
       "proposedCidrs": [
         "165.254.137.0/24",
-        "184.25.254.0/24",
-        "209.211.216.0/24"
+        "184.25.254.0/24"
       ],
       "ruleName": "ss.​akamai.​net",
       "service": "S",
